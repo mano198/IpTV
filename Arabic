@@ -1,4 +1,6 @@
   #EXTM3U
+#EXTINF:-1,MBC 1 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/5876.ts
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 #EXTINF:-1,BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
