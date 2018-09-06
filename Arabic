@@ -1,6 +1,23 @@
- #EXTM3U
-#EXTINF:-1,AR:ALMAYADEEN libanon
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20897.ts
+  #EXTM3U
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,BBC
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:-1,Deutsche Welle
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1,Al Arabiya
+http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
+#EXTINF:-1,TRT
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1,Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1,Al Mayadeen
+http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
+#EXTINF:-1,Al Manar
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:-1,Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:-1,Sama TV
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1,AR: MBC 1
 http://163.172.62.63:8000/live/fazeel/fazeel/1794.ts
 #EXTINF:-1,AR: MBC 2
@@ -213,6 +230,8 @@ http://151.80.22.22:9300/live/Tarik/Tarik2018/1032.ts
 http://151.80.22.22:9300/live/Tarik/Tarik2018/1021.ts
 #EXTINF:-1,beiN 12 HD
 http://151.80.22.22:9300/live/Tarik/Tarik2018/1020.ts
+#EXTINF:-1,Al Aan
+http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 #EXTINF:-1,AR: SAUDI 24
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22355.ts
 #EXTINF:-1,AR: Terrestre Tv Algerie
