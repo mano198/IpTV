@@ -2,6 +2,56 @@
 #EXTINF:-1,MBC 1 AR
 http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/5876.ts
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,beIN Sports 1 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8971.ts
+#EXTINF:-1,beIN Sports 1 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15018.ts
+#EXTINF:-1,beIN Sports 10 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8962.ts
+#EXTINF:-1,beIN Sports 10 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15009.ts
+#EXTINF:-1,beIN Sports 11 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8961.ts
+#EXTINF:-1,beIN Sports 11 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15008.ts
+#EXTINF:-1,beIN Sports 12 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15007.ts
+#EXTINF:-1,beIN Sports 12 HD English AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8830.ts
+#EXTINF:-1,beIN Sports 2 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8970.ts
+#EXTINF:-1,beIN Sports 2 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15017.ts
+#EXTINF:-1,beIN Sports 3 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8969.ts
+#EXTINF:-1,beIN Sports 3 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15016.ts
+#EXTINF:-1,beIN Sports 4 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8968.ts
+#EXTINF:-1,beIN Sports 4 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15015.ts
+#EXTINF:-1,beIN Sports 5 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8967.ts
+#EXTINF:-1,beIN Sports 5 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15014.ts
+#EXTINF:-1,beIN Sports 6 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8966.ts
+#EXTINF:-1,beIN Sports 6 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15013.ts
+#EXTINF:-1,beIN Sports 7 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8965.ts
+#EXTINF:-1,beIN Sports 7 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15012.ts
+#EXTINF:-1,beIN Sports 8 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8964.ts
+#EXTINF:-1,beIN Sports 8 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15011.ts
+#EXTINF:-1,beIN Sports 9 AR
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/8963.ts
+#EXTINF:-1,beIN Sports 9 HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15010.ts
+#EXTINF:-1,beIN Sports News HD ARB
+http://mypanel.tv:8080/live/0wu4yasvc/htoubve79/15019.ts
 #EXTINF:-1,BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,Deutsche Welle
