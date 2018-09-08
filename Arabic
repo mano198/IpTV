@@ -1,5 +1,4 @@
   #EXTM3U
-
 #EXTINF:-1,BBC
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1,Deutsche Welle
@@ -68,168 +67,7 @@ http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/20543.ts
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22363.ts
 #EXTINF:-1,AR: Almasar tv iraq
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/22361.ts
-#EXTINF:-1,AR: Bein Sports 1 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1437.ts
-#EXTINF:-1,AR: Bein Sports 2 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1438.ts
-#EXTINF:-1,AR: Bein Sports 3 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1439.ts
-#EXTINF:-1,AR: Bein Sports 4 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1440.ts
-#EXTINF:-1,AR: Bein Sports 5 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1441.ts
-#EXTINF:-1,AR: Bein Sports 6 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1442.ts
-#EXTINF:-1,AR: Bein Sports 7 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1443.ts
-#EXTINF:-1,AR: Bein Sports 8 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1444.ts
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1445.ts
-#EXTINF:-1,AR: Bein Sports 10 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1446.ts
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1447.ts
-#EXTINF:-1,AR: Bein Sports 12 HD
-http://62.210.142.66:9000/live/Dusan-Lukic/Lukic-21-04-2017-DRTZlkq!/1448.ts
-#EXTINF:-1,AR: DUBAI SPORT 1 HD local
-http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11075.ts
-#EXTINF:-1,BeinSports1
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6616.ts
-#EXTINF:-1,BeinSports2
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6617.ts
-#EXTINF:-1,BeinSports3
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6618.ts
-#EXTINF:-1,BeinSports4
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6619.ts
-#EXTINF:-1,BeinSports5
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6620.ts
-#EXTINF:-1,BeinSports6
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6621.ts
-#EXTINF:-1,BeinSports7
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6622.ts
-#EXTINF:-1,BeinSports8
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/6623.ts
-#EXTINF:-1,BeinSports9
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/7338.ts
-#EXTINF:-1,Beinsport 10
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/7359.ts
-#EXTINF:-1,Beinsport 11
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/7342.ts
-#EXTINF:-1,Beinsport 12
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/7343.ts
-#EXTINF:-1,Beinsport 13
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/7344.ts
-#EXTINF:-1,Bein Sport HD14
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/17411.ts
-#EXTINF:-1,Bein Sport HD15
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/17410.ts
-#EXTINF:-1,Bein Sport HD16
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/17409.ts
-#EXTINF:-1,Bein Sport HD17
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/17408.ts
-#EXTINF:-1,Bein Sport NBA HD
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/17407.ts
-#EXTINF:-1,BeinSport HD
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/10559.ts
-#EXTINF:-1,Bein News HD
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/8399.ts
-#EXTINF:-1,beiN SPORTs 11 HD
-http://78.142.29.3:2500/live/d4XJyL2keu/kOI06FTGIs/15113.ts
-#EXTINF:-1,AR: beIN SPORTS 10 HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10783.ts
-#EXTINF:-1,AR: beIN SPORTS 11 HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10782.ts
-#EXTINF:-1,AR: beIN SPORTS 12 HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10784.ts
-#EXTINF:-1,AR: beIN SPORTS 9 HD
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10785.ts
-#EXTINF:-1,AR: beIN SPORTS NEWS
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10786.ts
-#EXTINF:-1,AR: BeinSports SD 1
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10701.ts
-#EXTINF:-1,AR: BeinSports SD 2
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10702.ts
-#EXTINF:-1,AR: BeinSports SD 3
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10703.ts
-#EXTINF:-1,AR: BeinSports SD 4
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10704.ts
-#EXTINF:-1,AR: BeinSports SD 5
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10705.ts
-#EXTINF:-1,AR: BeinSports SD 6
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10706.ts
-#EXTINF:-1,AR: BeinSports SD 7
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10707.ts
-#EXTINF:-1,AR: BeinSports SD 8
-http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10708.ts
-#EXTINF:-1,BEIN_SPORTS 1 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24720.ts
-#EXTINF:-1,BEIN_SPORTS 10 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24711.ts
-#EXTINF:-1,BEIN_SPORTS 11
-http://54.37.255.204:9977/live/Rivera/Rivera/24710.ts
-#EXTINF:-1,BEIN_SPORTS 12
-http://54.37.255.204:9977/live/Rivera/Rivera/24709.ts
-#EXTINF:-1,BEIN_SPORTS 2 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24719.ts
-#EXTINF:-1,BEIN_SPORTS 3 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24718.ts
-#EXTINF:-1,BEIN_SPORTS 4 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24717.ts
-#EXTINF:-1,BEIN_SPORTS 5 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24716.ts
-#EXTINF:-1,BEIN_SPORTS 6 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24715.ts
-#EXTINF:-1,BEIN_SPORTS 7 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24714.ts
-#EXTINF:-1,BEIN_SPORTS 8 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24713.ts
-#EXTINF:-1,BEIN_SPORTS 9 HD
-http://54.37.255.204:9977/live/Rivera/Rivera/24712.ts
-#EXTINF:-1,beiN 1 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1031.ts
-#EXTINF:-1,beiN 1 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1041.ts
-#EXTINF:-1,beiN 2 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1030.ts
-#EXTINF:-1,beiN 2 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1040.ts
-#EXTINF:-1,beiN 3 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1029.ts
-#EXTINF:-1,beiN 3 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1039.ts
-#EXTINF:-1,beiN 4 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1028.ts
-#EXTINF:-1,beiN 4 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1038.ts
-#EXTINF:-1,beiN 5 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1027.ts
-#EXTINF:-1,beiN 5 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1037.ts
-#EXTINF:-1,beiN 6 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1026.ts
-#EXTINF:-1,beiN 6 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1036.ts
-#EXTINF:-1,beiN 7 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1025.ts
-#EXTINF:-1,beiN 7 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1035.ts
-#EXTINF:-1,beiN 8 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1024.ts
-#EXTINF:-1,beiN 8 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1034.ts
-#EXTINF:-1,beiN 9 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1023.ts
-#EXTINF:-1,beiN 9 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1033.ts
-#EXTINF:-1,beiN 10 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1022.ts
-#EXTINF:-1,beiN 10 SD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1032.ts
-#EXTINF:-1,beiN 11 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1021.ts
-#EXTINF:-1,beiN 12 HD
-http://151.80.22.22:9300/live/Tarik/Tarik2018/1020.ts
+
 #EXTINF:-1,Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 #EXTINF:-1,AR: SAUDI 24
@@ -512,7 +350,6 @@ http://163.172.62.63:8000/live/fazeel/fazeel/1787.ts
 http://163.172.62.63:8000/live/fazeel/fazeel/1788.ts
 #EXTINF:-1,AR:Nile Comedy
 http://163.172.62.63:8000/live/fazeel/fazeel/1789.ts
-
 #EXTINF:-1,AR: Zee Alwan
 http://163.172.62.63:8000/live/fazeel/fazeel/2315.ts
 #EXTINF:-1,AR: Zee Aflam
@@ -1193,3 +1030,199 @@ http://151.80.22.22:9300/live/Tarik/Tarik2018/1672.ts
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/10848.ts
 #EXTINF:-1,AR: LIBYA 2
 http://145.239.8.174:3500/live/xip.ddns.net/kelibia2/11035.ts
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/169.ts
+#EXTINF:-1,AR: Bein Sport 2 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/168.ts
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/167.ts
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/166.ts
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/165.ts
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/164.ts
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/163.ts
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/162.ts
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/161.ts
+#EXTINF:-1,AR: Bein Sport 10 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/160.ts
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/159.ts
+#EXTINF:-1,AR: Bein Sport 12 HD
+http://212.8.248.213:8080/live/JONAS1/JONAS/170.ts
+#EXTINF:-1,AR: Bein Sport 1 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2456.ts
+#EXTINF:-1,AR: Bein Sport 2 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2457.ts
+#EXTINF:-1,AR: Bein Sport 3 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2458.ts
+#EXTINF:-1,AR: Bein Sport 4 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2459.ts
+#EXTINF:-1,AR: Bein Sport 5 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2460.ts
+#EXTINF:-1,AR: Bein Sport 6 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2461.ts
+#EXTINF:-1,AR: Bein Sport 7 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2462.ts
+#EXTINF:-1,AR: Bein Sport 8 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2463.ts
+#EXTINF:-1,AR: Bein Sport 9 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2464.ts
+#EXTINF:-1,AR: Bein Sport 10 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2465.ts
+#EXTINF:-1,AR: Bein Sport 11 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2466.ts
+#EXTINF:-1,AR: Bein Sport 12 SD
+http://212.8.248.213:8080/live/JONAS1/JONAS/2467.ts
+#EXTINF:-1,AR: Bein Sport 1 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2472.ts
+#EXTINF:-1,AR: Bein Sport 2 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2473.ts
+#EXTINF:-1,AR: Bein Sport 3 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2481.ts
+#EXTINF:-1,AR: Bein Sport 4 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2474.ts
+#EXTINF:-1,AR: Bein Sport 5 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2475.ts
+#EXTINF:-1,AR: Bein Sport 6 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2476.ts
+#EXTINF:-1,AR: Bein Sport 7 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2477.ts
+#EXTINF:-1,AR: Bein Sport 8 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2478.ts
+#EXTINF:-1,AR: Bein Sport 9 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2479.ts
+#EXTINF:-1,AR: Bein Sport 10 Low
+http://212.8.248.213:8080/live/JONAS1/JONAS/2480.ts
+#EXTINF:-1,beIN-SPORTS-HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/3867.ts
+#EXTINF:-1,beIN-SPORTS-1HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2270.ts
+#EXTINF:-1,beIN-SPORTS-2HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2271.ts
+#EXTINF:-1,beIN-SPORTS-3HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2272.ts
+#EXTINF:-1,beIN-SPORTS-4HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2273.ts
+#EXTINF:-1,beIN-SPORTS-5HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2274.ts
+#EXTINF:-1,beIN-SPORTS-6HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2275.ts
+#EXTINF:-1,beIN-SPORTS-7HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2276.ts
+#EXTINF:-1,beIN-SPORTS-8HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2277.ts
+#EXTINF:-1,beIN-SPORTS-9HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2278.ts
+#EXTINF:-1,beIN-SPORTS-10HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2279.ts
+#EXTINF:-1,beIN-SPORTS-11HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2280.ts
+#EXTINF:-1,beIN-SPORTS-12HD
+http://54.38.69.11:8000/live/mahdi1/mahdi/2281.ts
+#EXTINF:-1,beIN-SPORTS-1SD
+http://54.38.69.11:8000/live/mahdi1/mahdi/8471.ts
+#EXTINF:-1,beIN-SPORTS-2SD
+http://54.38.69.11:8000/live/mahdi1/mahdi/8472.ts
+#EXTINF:-1,beIN-SPORTS-3SD
+http://54.38.69.11:8000/live/mahdi1/mahdi/8539.ts
+#EXTINF:-1,beIN-SPORTS-4SD
+http://54.38.69.11:8000/live/mahdi1/mahdi/8690.ts
+#EXTINF:-1,beIN-SPORTS-5SD
+http://54.38.69.11:8000/live/mahdi1/mahdi/8689.ts
+#EXTINF:-1,beIN-SPORTS-6SD
+http://54.38.69.11:8000/live/mahdi1/mahdi/9984.ts
+#EXTINF:-1,beIN-SPORTS-7sd
+http://54.38.69.11:8000/live/mahdi1/mahdi/10928.ts
+#EXTINF:-1,beIN-SPORTS-1-H265
+http://54.38.69.11:8000/live/mahdi1/mahdi/9935.ts
+#EXTINF:-1,beIN-SPORTS-2-H265
+http://54.38.69.11:8000/live/mahdi1/mahdi/9940.ts
+#EXTINF:-1,beIN-SPORTS-3-H265
+http://54.38.69.11:8000/live/mahdi1/mahdi/9939.ts
+#EXTINF:-1,beIN-SPORTS-4-H265
+http://54.38.69.11:8000/live/mahdi1/mahdi/9938.ts
+#EXTINF:-1,beIN-SPORTS-5-H265
+http://54.38.69.11:8000/live/mahdi1/mahdi/9937.ts
+#EXTINF:-1,beIN-SPORTS-6-H265
+http://54.38.69.11:8000/live/mahdi1/mahdi/9936.ts
+#EXTINF:-1,beIN-SPORTS-1FR-V1
+http://54.38.69.11:8000/live/mahdi1/mahdi/2268.ts
+#EXTINF:-1,beIN-SPORTS-2HD-15-5
+http://54.38.69.11:8000/live/mahdi1/mahdi/14117.ts
+#EXTINF:-1,AR: beIN SPORTS 10 HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10783.ts
+#EXTINF:-1,AR: beIN SPORTS 11 HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10782.ts
+#EXTINF:-1,AR: beIN SPORTS 12 HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10784.ts
+#EXTINF:-1,AR: beIN SPORTS 9 HD
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10785.ts
+#EXTINF:-1,AR: beIN SPORTS NEWS
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10786.ts
+#EXTINF:-1,AR: BeinSports SD 1
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10701.ts
+#EXTINF:-1,AR: BeinSports SD 2
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10702.ts
+#EXTINF:-1,AR: BeinSports SD 3
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10703.ts
+#EXTINF:-1,AR: BeinSports SD 4
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10704.ts
+#EXTINF:-1,AR: BeinSports SD 5
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10705.ts
+#EXTINF:-1,AR: BeinSports SD 6
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10706.ts
+#EXTINF:-1,AR: BeinSports SD 7
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10707.ts
+#EXTINF:-1,AR: BeinSports SD 8
+http://212.232.29.250:8000/live/FULHDP-MeTeGe/TFDTGDiKjQ/10708.ts
+#EXTINF:-1,Bein Sport 1 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/334.ts
+#EXTINF:-1,Bein Sport 2 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/335.ts
+#EXTINF:-1,Bein Sport 3 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/336.ts
+#EXTINF:-1,Bein Sport 4 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/434.ts
+#EXTINF:-1,Bein Sport 5 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/400.ts
+#EXTINF:-1,Bein Sport 6 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/401.ts
+#EXTINF:-1,Bein Sport 7 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/338.ts
+#EXTINF:-1,Bein Sport 8 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/399.ts
+#EXTINF:-1,Bein Sport 9 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/337.ts
+#EXTINF:-1,Bein Sport 10 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/435.ts
+#EXTINF:-1,Bein Sport 11 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/3018.ts
+#EXTINF:-1,Bein Sports 12 HD
+http://164.132.160.66:777/live/csOIC0HAYC/0zi48YB80d/3019.ts
+#EXTINF:-1,(AR) BEIN SPORTS 1 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34209.ts
+#EXTINF:-1,(AR) BEIN SPORTS 8 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34202.ts
+#EXTINF:-1,(AR) BEIN SPORTS 2 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34208.ts
+#EXTINF:-1,(AR) BEIN SPORTS 3 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34207.ts
+#EXTINF:-1,(AR) BEIN SPORTS 4 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34206.ts
+#EXTINF:-1,(AR) BEIN SPORTS 5 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34205.ts
+#EXTINF:-1,(AR) BEIN SPORTS 6 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34204.ts
+#EXTINF:-1,(AR) BEIN SPORTS 7 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34203.ts
+#EXTINF:-1,(AR) BEIN SPORTS 9 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34201.ts
+#EXTINF:-1,(AR) BEIN SPORTS 10 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34200.ts
+#EXTINF:-1,(AR) BEIN SPORTS 11 HD
+http://193.200.164.158:80/live/IgoQwqCB6M/8518047996506/34199.ts
