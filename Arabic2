@@ -1,53 +1,6 @@
 #EXTM3U
+
 #EXTINF:-1,########## Arabic ##########
-#EXTINF:-1,beIN Sports 1 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/89714.ts
-#EXTINF:-1,beIN Sports 1 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15018.ts
-#EXTINF:-1,beIN Sports 2 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8970.ts
-#EXTINF:-1,beIN Sports 2 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15017.ts
-#EXTINF:-1,beIN Sports 3 ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/53163.ts
-#EXTINF:-1,beIN Sports 3 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/53269.ts
-#EXTINF:-1,beIN Sports 3 FHD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/53268.ts
-#EXTINF:-1,beIN Sports 4 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8968.ts
-#EXTINF:-1,beIN Sports 4 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15015.ts
-#EXTINF:-1,beIN Sports 5 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8967.ts
-#EXTINF:-1,beIN Sports 5 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15014.ts
-#EXTINF:-1,beIN Sports 6 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/89665.ts
-#EXTINF:-1,beIN Sports 6 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15013.ts
-#EXTINF:-1,beIN Sports 7 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8965.ts
-#EXTINF:-1,beIN Sports 7 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15012.ts
-#EXTINF:-1,beIN Sports 8 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8964.ts
-#EXTINF:-1,beIN Sports 8 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15011.ts
-#EXTINF:-1,beIN Sports 9 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8963.ts
-#EXTINF:-1,beIN Sports 9 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15010.ts
-#EXTINF:-1,beIN Sports 10 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8962.ts
-#EXTINF:-1,beIN Sports 10 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15009.ts
-#EXTINF:-1,beIN Sports 11 AR
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8961.ts
-#EXTINF:-1,beIN Sports 11 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15008.ts
-#EXTINF:-1,beIN Sports 12 HD ARB
-http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15007.ts
 http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5918.ts
 #EXTINF:-1,218 TV Libye AR
 http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8889.ts
@@ -1011,7 +964,54 @@ http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/4135.ts
 http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/4134.ts
 #EXTINF:-1,beIN Series HD AR
 http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8819.ts
-
+#EXTINF:-1,beIN Sports 1 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/89714.ts
+#EXTINF:-1,beIN Sports 1 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15018.ts
+#EXTINF:-1,beIN Sports 2 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8970.ts
+#EXTINF:-1,beIN Sports 2 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15017.ts
+#EXTINF:-1,beIN Sports 3 ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/53163.ts
+#EXTINF:-1,beIN Sports 3 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/53269.ts
+#EXTINF:-1,beIN Sports 3 FHD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/53268.ts
+#EXTINF:-1,beIN Sports 4 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8968.ts
+#EXTINF:-1,beIN Sports 4 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15015.ts
+#EXTINF:-1,beIN Sports 5 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8967.ts
+#EXTINF:-1,beIN Sports 5 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15014.ts
+#EXTINF:-1,beIN Sports 6 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/89665.ts
+#EXTINF:-1,beIN Sports 6 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15013.ts
+#EXTINF:-1,beIN Sports 7 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8965.ts
+#EXTINF:-1,beIN Sports 7 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15012.ts
+#EXTINF:-1,beIN Sports 8 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8964.ts
+#EXTINF:-1,beIN Sports 8 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15011.ts
+#EXTINF:-1,beIN Sports 9 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8963.ts
+#EXTINF:-1,beIN Sports 9 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15010.ts
+#EXTINF:-1,beIN Sports 10 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8962.ts
+#EXTINF:-1,beIN Sports 10 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15009.ts
+#EXTINF:-1,beIN Sports 11 AR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8961.ts
+#EXTINF:-1,beIN Sports 11 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15008.ts
+#EXTINF:-1,beIN Sports 12 HD ARB
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/15007.ts
 #EXTINF:-1,beIN Sports 12 HD English AR
 http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8830.ts
 #EXTINF:-1,beIN Sports News HD ARB
@@ -1080,3 +1080,543 @@ http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/623168.ts
 http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/623167.ts
 #EXTINF:-1,Yas Sports HD ARB
 http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/623172.ts
+#EXTINF:-1,########## France ##########
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5718.ts
+#EXTINF:-1,13Eme Rue FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5717.ts
+#EXTINF:-1,13Eme Rue HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12973.ts
+#EXTINF:-1,6Ter FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13004.ts
+#EXTINF:-1,6Ter HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5716.ts
+#EXTINF:-1,A La Carte 1 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12930.ts
+#EXTINF:-1,A La Carte 2 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12929.ts
+#EXTINF:-1,A La Carte 3 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12928.ts
+#EXTINF:-1,A La Carte 4 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12927.ts
+#EXTINF:-1,A La Carte 5 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12926.ts
+#EXTINF:-1,A La Carte 6 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12925.ts
+#EXTINF:-1,A La Carte 7 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12924.ts
+#EXTINF:-1,A La Carte 8 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12923.ts
+#EXTINF:-1,A+ FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/14276.ts
+#EXTINF:-1,Atice Studio HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/50064.ts
+#EXTINF:-1,AB3 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5714.ts
+#EXTINF:-1,AB Moteurs HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5713.ts
+#EXTINF:-1,AB1 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5715.ts
+#EXTINF:-1,Action FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13003.ts
+#EXTINF:-1,Action FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8629.ts
+#EXTINF:-1,Alsace 20 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12941.ts
+#EXTINF:-1,Animaux HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5712.ts
+#EXTINF:-1,Arte FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12862.ts
+#EXTINF:-1,Arte HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5711.ts
+#EXTINF:-1,BBlack Africa FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/14275.ts
+#EXTINF:-1,BBlack Classic FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/14274.ts
+#EXTINF:-1,BFM Business FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5707.ts
+#EXTINF:-1,BFM Sport FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8560.ts
+#EXTINF:-1,BFM TV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5706.ts
+#EXTINF:-1,Be Curious TV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12861.ts
+#EXTINF:-1,Bet HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/7941.ts
+#EXTINF:-1,Boing HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5705.ts
+#EXTINF:-1,Boomerang HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5704.ts
+#EXTINF:-1,Brava FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/7940.ts
+#EXTINF:-1,C Star FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13007.ts
+#EXTINF:-1,C-News FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12940.ts
+#EXTINF:-1,C8 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13006.ts
+#EXTINF:-1,C8 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5703.ts
+#EXTINF:-1,CNEWS FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16924.ts
+#EXTINF:-1,CNews FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5661.ts
+#EXTINF:-1,CStar HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5686.ts
+#EXTINF:-1,Canal Decale HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8566.ts
+#EXTINF:-1,Canal J HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5702.ts
+#EXTINF:-1,Canal Play Live (Alliés) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8606.ts
+#EXTINF:-1,Canal Play Live (Assassin's Creed) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8553.ts
+#EXTINF:-1,Canal Play Live (Au nom De Ma Fille) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8552.ts
+#EXTINF:-1,Canal Play Live (Beauté cachée) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8551.ts
+#EXTINF:-1,Canal Play Live (Cigarettes et chocolat chaud) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8550.ts
+#EXTINF:-1,Canal Play Live (Cigognes et compagnie) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8595.ts
+#EXTINF:-1,Canal Play Live (Criminel) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8581.ts
+#EXTINF:-1,Canal Play Live (Demain tout commence) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8549.ts
+#EXTINF:-1,Canal Play Live (Doctor Strange) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8607.ts
+#EXTINF:-1,Canal Play Live (Inferno) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8598.ts
+#EXTINF:-1,Canal Play Live (Jack Reacher:Never Go Back) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8604.ts
+#EXTINF:-1,Canal Play Live (Joyeux Bordel) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8613.ts
+#EXTINF:-1,Canal Play Live (Kickboxer-Vengeance) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8594.ts
+#EXTINF:-1,Canal Play Live (L'Ami François d'Assise et ses frères) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8548.ts
+#EXTINF:-1,Canal Play Live (La Bataille géante de boules de neige) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8547.ts
+#EXTINF:-1,Canal Play Live (La Dream Team) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8574.ts
+#EXTINF:-1,Canal Play Live (La Fille de Brest) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8577.ts
+#EXTINF:-1,Canal Play Live (La Folle Histoire de Max et Léon) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8573.ts
+#EXTINF:-1,Canal Play Live (Le Gang des Antillais) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8578.ts
+#EXTINF:-1,Canal Play Live (Le Petit locataire) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8582.ts
+#EXTINF:-1,Canal Play Live (Le Voyage au Groenland) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8579.ts
+#EXTINF:-1,Canal Play Live (Les Trolls) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8605.ts
+#EXTINF:-1,Canal Play Live (Les Têtes de l'emploi) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8609.ts
+#EXTINF:-1,Canal Play Live (Les mémoires d'un assassin international) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8546.ts
+#EXTINF:-1,Canal Play Live (Lion) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8545.ts
+#EXTINF:-1,Canal Play Live (Ma famille t'adore déjà) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8612.ts
+#EXTINF:-1,Canal Play Live (Mechanic Résurrection) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8580.ts
+#EXTINF:-1,Canal Play Live (MonsterCars) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8544.ts
+#EXTINF:-1,Canal Play Live (Mr Wolff) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8603.ts
+#EXTINF:-1,Canal Play Live (Nocturnal Animals) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8586.ts
+#EXTINF:-1,Canal Play Live (Oppression) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8597.ts
+#EXTINF:-1,Canal Play Live (Papa Ou Maman 2) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8543.ts
+#EXTINF:-1,Canal Play Live (Passengers) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8542.ts
+#EXTINF:-1,Canal Play Live (Premier Contact aka Arrival) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8565.ts
+#EXTINF:-1,Canal Play Live (Père Fils Thérapie) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8541.ts
+#EXTINF:-1,Canal Play Live (Radin!) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8600.ts
+#EXTINF:-1,Canal Play Live (Revenger) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8637.ts
+#EXTINF:-1,Canal Play Live (Rogue One A Star Wars Story) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8540.ts
+#EXTINF:-1,Canal Play Live (Rupture pour tous) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8576.ts
+#EXTINF:-1,Canal Play Live (Sausage Party  16ans) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8590.ts
+#EXTINF:-1,Canal Play Live (Suicide Squad) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8589.ts
+#EXTINF:-1,Canal Play Live (Sully) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8601.ts
+#EXTINF:-1,Canal Play Live (Tamara) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8593.ts
+#EXTINF:-1,Canal Play Live (Toro) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8592.ts
+#EXTINF:-1,Canal Play Live (Tous en scène) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8610.ts
+#EXTINF:-1,Canal Play Live (Un Monde entre nous) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8555.ts
+#EXTINF:-1,Canal Play Live (Underworld-Blood Wars) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8608.ts
+#EXTINF:-1,Canal Play Live (Warcraft:Le commencement) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8587.ts
+#EXTINF:-1,Canal Play Live (xXx:Reactivated) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8575.ts
+#EXTINF:-1,Canal Play Live (À fond) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8554.ts
+#EXTINF:-1,Canal Play Live FHD (Vaiana-la légende du bout du monde) FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8611.ts
+#EXTINF:-1,Canal Sport FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8569.ts
+#EXTINF:-1,Canal+ Cinema FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12996.ts
+#EXTINF:-1,Canal+ Cinema HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5700.ts
+#EXTINF:-1,Canal+ HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/57012.ts
+#EXTINF:-1,Canal+ Decale FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5699.ts
+#EXTINF:-1,Canal+ FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12860.ts
+#EXTINF:-1,Canal+ Family FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12970.ts
+#EXTINF:-1,Canal+ Family HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8628.ts
+#EXTINF:-1,Canal+ Famiz FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5698.ts
+#EXTINF:-1,Canal+ Series FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12995.ts
+#EXTINF:-1,Canal+ Series HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5697.ts
+#EXTINF:-1,Canal+ Sport FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16926.ts
+#EXTINF:-1,Canal+ Sport HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5696.ts
+#EXTINF:-1,Canal+Cinéma FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8567.ts
+#EXTINF:-1,Cartoon Network FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12943.ts
+#EXTINF:-1,Cartoon Network FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5695.ts
+#EXTINF:-1,Chasse E Peche HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5694.ts
+#EXTINF:-1,Cherie 25 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5693.ts
+#EXTINF:-1,Cine Action HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8623.ts
+#EXTINF:-1,Cine Classic HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/7943.ts
+#EXTINF:-1,Cine Club FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12994.ts
+#EXTINF:-1,Cine Club HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8627.ts
+#EXTINF:-1,Cine FX HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5692.ts
+#EXTINF:-1,Cine Famiz FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8624.ts
+#EXTINF:-1,Cine+ Classic FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12969.ts
+#EXTINF:-1,Cine+ Club FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16925.ts
+#EXTINF:-1,Cine+ Emotion FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5691.ts
+#EXTINF:-1,Cine+ Famiz FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12859.ts
+#EXTINF:-1,Cine+ Frisson HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5690.ts
+#EXTINF:-1,Cine+ Polar FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5689.ts
+#EXTINF:-1,Cine+ Premier FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5688.ts
+#EXTINF:-1,Clubbing TV FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12939.ts
+#EXTINF:-1,Comedie+ HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5687.ts
+#EXTINF:-1,Crime District FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16923.ts
+#EXTINF:-1,D8 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5684.ts
+#EXTINF:-1,Demain TV FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12938.ts
+#EXTINF:-1,Discovery FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12997.ts
+#EXTINF:-1,Discovery FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5683.ts
+#EXTINF:-1,Discovery Family FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16921.ts
+#EXTINF:-1,Discovery Investigation FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/9034.ts
+#EXTINF:-1,Discovery Science FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5682.ts
+#EXTINF:-1,Disney Channel +1 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12947.ts
+#EXTINF:-1,Disney Channel FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5681.ts
+#EXTINF:-1,Disney Cinema FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12946.ts
+#EXTINF:-1,Disney Cinema HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8617.ts
+#EXTINF:-1,Disney Junior FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5679.ts
+#EXTINF:-1,Disney Junior HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12945.ts
+#EXTINF:-1,Disney XD FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16920.ts
+#EXTINF:-1,Disney XD HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8614.ts
+#EXTINF:-1,Djazz TV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/7939.ts
+#EXTINF:-1,E! Entertainment FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5678.ts
+#EXTINF:-1,Elle Girl FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12856.ts
+#EXTINF:-1,Enorme FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5677.ts
+#EXTINF:-1,Equidia Life HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12950.ts
+#EXTINF:-1,Equidia Live FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5675.ts
+#EXTINF:-1,Equipe 21 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5674.ts
+#EXTINF:-1,Equipe FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5676.ts
+#EXTINF:-1,EuroSport 1 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/7137.ts
+#EXTINF:-1,Euronews FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5673.ts
+#EXTINF:-1,Eurosport 1 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5672.ts
+#EXTINF:-1,Eurosport 2 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5671.ts
+#EXTINF:-1,Eurosport 2 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12951.ts
+#EXTINF:-1,Foot + 24 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5670.ts
+#EXTINF:-1,France 2 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5669.ts
+#EXTINF:-1,France 24 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5665.ts
+#EXTINF:-1,France 24 News FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8630.ts
+#EXTINF:-1,France 24 en Anglais FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8559.ts
+#EXTINF:-1,France 3 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12858.ts
+#EXTINF:-1,France 3 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5668.ts
+#EXTINF:-1,France 4 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5667.ts
+#EXTINF:-1,France 5 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5666.ts
+#EXTINF:-1,France Info FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12971.ts
+#EXTINF:-1,France O FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5664.ts
+#EXTINF:-1,Game One FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16919.ts
+#EXTINF:-1,Game One FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5663.ts
+#EXTINF:-1,Golf Channel FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16918.ts
+#EXTINF:-1,Golf+ FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12948.ts
+#EXTINF:-1,Gong FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8558.ts
+#EXTINF:-1,Gulli FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16917.ts
+#EXTINF:-1,Gulli FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8615.ts
+#EXTINF:-1,TF1 Films & Series FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5662.ts
+#EXTINF:-1,Histoire FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16916.ts
+#EXTINF:-1,Histoire FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8570.ts
+#EXTINF:-1,Info Sport+ FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12952.ts
+#EXTINF:-1,Infosport+ FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16915.ts
+#EXTINF:-1,Infosport+ FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5660.ts
+#EXTINF:-1,KTO FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5659.ts
+#EXTINF:-1,LCP FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5655.ts
+#EXTINF:-1,LCi HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5656.ts
+#EXTINF:-1,La Chaine Normande FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5658.ts
+#EXTINF:-1,La Une HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5657.ts
+#EXTINF:-1,Luxe TV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16913.ts
+#EXTINF:-1,M6 Boutique HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12974.ts
+#EXTINF:-1,M6 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5653.ts
+#EXTINF:-1,M6 Music FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5654.ts
+#EXTINF:-1,MCM FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16912.ts
+#EXTINF:-1,MCM HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12967.ts
+#EXTINF:-1,MCM Top FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16911.ts
+#EXTINF:-1,MTV Base HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12966.ts
+#EXTINF:-1,MTV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/7942.ts
+#EXTINF:-1,MTV Hits FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16910.ts
+#EXTINF:-1,MTV Hits FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8568.ts
+#EXTINF:-1,MTV Music FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12965.ts
+#EXTINF:-1,MY ZEN TV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16907.ts
+#EXTINF:-1,Mangas FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8616.ts
+#EXTINF:-1,Mezzo FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5652.ts
+#EXTINF:-1,Movies 1 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5651.ts
+#EXTINF:-1,Movies 2  HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5650.ts
+#EXTINF:-1,Movies 4 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5649.ts
+#EXTINF:-1,Movies 5 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5648.ts
+#EXTINF:-1,Movies 6 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5647.ts
+#EXTINF:-1,Movies 7 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5646.ts
+#EXTINF:-1,My Cuisine FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16908.ts
+#EXTINF:-1,NRJ 12 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5641.ts
+#EXTINF:-1,NRJ Hits HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5640.ts
+#EXTINF:-1,NT1 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5639.ts
+#EXTINF:-1,Nat Geo HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8632.ts
+#EXTINF:-1,Nat Geo Wild FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16906.ts
+#EXTINF:-1,Nat Geo Wild HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5645.ts
+#EXTINF:-1,National Geo FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12999.ts
+#EXTINF:-1,National Geographic FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16905.ts
+#EXTINF:-1,National Geographic HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5644.ts
+#EXTINF:-1,Nickelodeon +1 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16904.ts
+#EXTINF:-1,Nickelodeon 4 Teen FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16903.ts
+#EXTINF:-1,Nickelodeon FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16902.ts
+#EXTINF:-1,Nickelodeon FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5643.ts
+#EXTINF:-1,Nickelodeon Junior FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5642.ts
+#EXTINF:-1,Non Stop People FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16901.ts
+#EXTINF:-1,Numero 23 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5638.ts
+#EXTINF:-1,OCS Choc FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5637.ts
+#EXTINF:-1,OCS Choc HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8618.ts
+#EXTINF:-1,OCS City FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5636.ts
+#EXTINF:-1,OCS City HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8619.ts
+#EXTINF:-1,OCS Geants FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5635.ts
+#EXTINF:-1,OCS Geants HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8620.ts
+#EXTINF:-1,OCS Go Cinema 1 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13015.ts
+#EXTINF:-1,OCS Go Cinema 2 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13014.ts
+#EXTINF:-1,OCS Go Cinema 3 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13013.ts
+#EXTINF:-1,OCS Go Cinema 4 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13012.ts
+#EXTINF:-1,OCS Go Cinema 5 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13011.ts
+#EXTINF:-1,OCS Max HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/38016.ts
+#EXTINF:-1,OCS Max FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5634.ts
+#EXTINF:-1,OL TV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16900.ts
+#EXTINF:-1,OLTV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5633.ts
+#EXTINF:-1,OM TV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16899.ts
+#EXTINF:-1,ONE TV FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16898.ts
+#EXTINF:-1,Ofive TV FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12934.ts
+#EXTINF:-1,Orange Cinema 1 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13023.ts
+#EXTINF:-1,Orange Cinema 2 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13022.ts
+#EXTINF:-1,Orange Cinema 3 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13021.ts
+#EXTINF:-1,Orange Cinema 4 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13020.ts
+#EXTINF:-1,Orange Cinema 5 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13019.ts
+#EXTINF:-1,Orange Cinema 6 HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/13018.ts
+#EXTINF:-1,Orange Cinema Action FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5631.ts
+#EXTINF:-1,Orange Cinema Aventure FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5630.ts
+#EXTINF:-1,Orange Cinema CEst Fait HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5629.ts
+#EXTINF:-1,Orange Cinema FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5632.ts
+#EXTINF:-1,Paramount Channel FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16896.ts
+#EXTINF:-1,Paramount Channel HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5627.ts
+#EXTINF:-1,Paramount Decale FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/16895.ts
+#EXTINF:-1,Paris Premiere FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5626.ts
+#EXTINF:-1,Piwi HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5625.ts
+#EXTINF:-1,Piwi+ FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12944.ts
+#EXTINF:-1,Planete A&E HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8563.ts
+#EXTINF:-1,Planete Plus CI FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5622.ts
+#EXTINF:-1,Planete+  A&E FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12998.ts
+#EXTINF:-1,Planete+ HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5624.ts
+#EXTINF:-1,Planete-HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/8572.ts
+#EXTINF:-1,Planète+ Crime Investigation FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12942.ts
+#EXTINF:-1,Polar+ FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/14277.ts
+#EXTINF:-1,RFM HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/12964.ts
+#EXTINF:-1,RMC Decouverte FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5621.ts
+#EXTINF:-1,RTL 9 FHD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5620.ts
+#EXTINF:-1,RTL9 FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/7945.ts
+#EXTINF:-1,RTS Deux FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5618.ts
+#EXTINF:-1,RTS Un HD FR
+http://mypanel.tv:8080/live/bwl0mh4ebyi/kgz5ius3kr/5619.ts
