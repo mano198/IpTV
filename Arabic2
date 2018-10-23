@@ -1,5 +1,59 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="########## Arabic ##########" tvg-logo="http://pici.life/arabic.png" group-title="Arabic",########## Arabic ##########
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 AR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Arabic",beIN Sports 1 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/89714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 1 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 AR" tvg-logo="" group-title="Arabic",beIN Sports 2 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/625249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 2 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 ARB" tvg-logo="" group-title="Arabic",beIN Sports 3 ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/53163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 3 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/53269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FHD ARB" tvg-logo="" group-title="VIP",beIN Sports 3 FHD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/53268.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 AR" tvg-logo="" group-title="Arabic",beIN Sports 4 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/8968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 4 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 AR" tvg-logo="" group-title="Arabic",beIN Sports 5 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/625248.m3u8
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="beIN Sports 5 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 5 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/625257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 AR" tvg-logo="" group-title="Arabic",beIN Sports 6 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/89665.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 6 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 AR" tvg-logo="" group-title="Arabic",beIN Sports 7 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/8965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 7 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 AR" tvg-logo="http://pici.life/beinsports8_2.png" group-title="Arabic",beIN Sports 8 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/8964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 8 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 8 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 AR" tvg-logo="" group-title="Arabic",beIN Sports 9 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/8963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 9 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 9 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 AR" tvg-logo="" group-title="Arabic",beIN Sports 10 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/8962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 10 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 10 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11 AR" tvg-logo="" group-title="Arabic",beIN Sports 11 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/8961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 11 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 11 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 12 HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 12 HD English AR" tvg-logo="" group-title="Arabic",beIN Sports 12 HD English AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/8830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News HD ARB" tvg-logo="" group-title="Arabic",beIN Sports News HD ARB
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beiN Movies 2 AR" tvg-logo="" group-title="Arabic",beiN Movies 2 AR
+http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/5847.m3u8
 http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/5918.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="218 TV Libye AR" tvg-logo="" group-title="Arabic",218 TV Libye AR
 http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/8889.m3u8
