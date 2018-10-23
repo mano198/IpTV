@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="########## Arabic ##########" tvg-logo="http://pici.life/arabic.png" group-title="Arabic",########## Arabic ##########
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 AR" tvg-logo="http://pici.life/beinsport1hd_2.png" group-title="Arabic",beIN Sports 1 AR
-http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/89714.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD ARB" tvg-logo="" group-title="Arabic",beIN Sports 1 HD ARB
 http://mypanel.tv:8080/live/5iwmqwst72h/lg0143zat4/15018.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 AR" tvg-logo="" group-title="Arabic",beIN Sports 2 AR
